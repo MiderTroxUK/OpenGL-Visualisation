@@ -1,0 +1,38 @@
+# Build output
+debug/
+release/
+build/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.vc.pdb
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.pro.user.*
+.qmake.stash
+Makefile
+
+# Visual Studio / MSVC
+.vs/
+*.vcxproj*
+*.sln
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+
+
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
